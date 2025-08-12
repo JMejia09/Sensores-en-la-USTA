@@ -1,6 +1,6 @@
 # 📡 Sensores - Comunicaciones Industriales
 
-Este repositorio documenta diferentes sensores utilizados en el laboratorio de la Universidad [Nombre de la Universidad], como parte del curso de **Comunicaciones Industriales**.  
+Este repositorio documenta diferentes sensores utilizados en el laboratorio de la Universidad Santo Tomas en Bogota, como parte del curso de **Comunicaciones Industriales**.  
 Cada sensor incluye su descripción, principio de funcionamiento, aplicaciones y fotografía tomada en el laboratorio.
 
 ---
